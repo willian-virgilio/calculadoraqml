@@ -1,0 +1,5 @@
+msg = "ola todos"
+print(msg)
+msg.capitalize()
+print(msg)
+
